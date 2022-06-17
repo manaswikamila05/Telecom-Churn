@@ -1,4 +1,4 @@
-# Problem Statement
+# :pushpin::satellite: Problem Statement
 
 - You are working as an analyst in a telecom company that provides home phone and internet services to 7,043 customers across Southern California.
 - A new competitor has moved into the area, and the company you are working for is concerned about losing its existing customers.
@@ -59,5 +59,10 @@ Why is Customer lifetime value important?
 - Higher Customer lifetime value, less likely to churn
 - Custom-made customer programs to improve memberships
 
-# :dart: Approach
+# :memo: Approach
 ![image](https://user-images.githubusercontent.com/77529445/174260569-99155d66-6090-4f94-9967-ac607b801f19.png)
+
+# :pick: Tools used
+- SQLite
+- Python
+- Tableau
