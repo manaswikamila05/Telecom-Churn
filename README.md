@@ -40,6 +40,7 @@ ERD diagram
 
 ![image](https://user-images.githubusercontent.com/77529445/174948366-c3156dae-bb82-4b08-b831-38978e81a0f2.png)
 
+The database satisfies all normalization up to the third normal form.
 
 # :bookmark: Key metrics
 ### Customer churn
