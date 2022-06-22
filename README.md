@@ -1,4 +1,8 @@
-# :pushpin::satellite: Problem Statement
+# :satellite: Telecom churn Case Study using SQL, Python and Tableau
+
+
+
+# :pushpin: Problem Statement
 
 - You are working as an analyst in a telecom company that provides home phone and internet services to 7,043 customers across Southern California.
 - A new competitor has moved into the area, and the company you are working for is concerned about losing its existing customers.
