@@ -1,4 +1,4 @@
-# :satellite: Telecom churn Case Study using SQL, Python and Tableau
+# :satellite: Telecom Customer Churn Case Study using SQL, Python and Tableau
 
 
 
