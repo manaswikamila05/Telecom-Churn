@@ -76,3 +76,8 @@ Why is Customer lifetime value important?
 - SQLite
 - Python
 - Tableau
+
+# :bar_chart: Visualization
+Produced a Tableau story.
+
+Tableau: [Telecom Customer Churn](https://public.tableau.com/app/profile/manaswi.kamila/viz/TelecomCustomerChurnAnalysis_16561435637710/TelecomCustomerChurnAnalysis)
